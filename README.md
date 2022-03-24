@@ -27,13 +27,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # shiny-pancake
 
-##node version
+## node version
 nvm install(use) 14.15
-##angular cli
+## angular cli
 npm install -g @angular/cli
-##start app
+## start app
 ng serve -o
-##start json
+## start json
 cd ./dados
 json-server --watch db.json
 
